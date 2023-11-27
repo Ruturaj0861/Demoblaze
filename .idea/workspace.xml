@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d5ed4d78-5bf6-4cd3-be1f-c97ad7a0bbf6" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2X4G27ZZ8jCJZuEHu7mB29RLuxm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Projects_Fremwork/Alpha_Capital_User",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "two.files.diff.last.used.file": "C:/Users/rutur/PycharmProjects/ALPHA_CAPITAL/Report/report.html",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rutur\PycharmProjects\ALPHA_CAPITAL\utilities" />
+      <recent name="C:\Users\rutur\PycharmProjects\ALPHA_CAPITAL" />
+      <recent name="C:\Users\rutur\PycharmProjects\ALPHA_CAPITAL\TestData" />
+      <recent name="C:\Users\rutur\PycharmProjects\ALPHA_CAPITAL\testCases" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="Run" type="BatchConfigurationType" factoryName="Batch" temporary="true">
+      <module name="ALPHA_CAPITAL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="Run.bat" />
+      <option name="PARAMETERS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ALPHA_CAPITAL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testCases/PP.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="ALPHA_CAPITAL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_Account_Analysis.Test_AccountAnalysis" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="ALPHA_CAPITAL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Account_Analysis.Test_AccountAnalysis&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_login.Test_AC_L_1.test_homePageTitle" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="ALPHA_CAPITAL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_login.Test_AC_L_1.test_homePageTitle&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_login_ddt.Test_Login_DDT" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="ALPHA_CAPITAL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_login_ddt.Test_Login_DDT&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.PP" />
+        <item itemvalue="Python tests.Python tests for test_Account_Analysis.Test_AccountAnalysis" />
+        <item itemvalue="Batch.Run" />
+        <item itemvalue="Python tests.Python tests for test_login_ddt.Test_Login_DDT" />
+        <item itemvalue="Python tests.Python tests for test_login.Test_AC_L_1.test_homePageTitle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5ed4d78-5bf6-4cd3-be1f-c97ad7a0bbf6" name="Changes" comment="" />
+      <created>1697880729890</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697880729890</updated>
+      <workItem from="1697880740816" duration="10698000" />
+      <workItem from="1697904377596" duration="249000" />
+      <workItem from="1698037339994" duration="4853000" />
+      <workItem from="1698042244307" duration="1700000" />
+      <workItem from="1698043969821" duration="586000" />
+      <workItem from="1698048124476" duration="227000" />
+      <workItem from="1698048365743" duration="1167000" />
+      <workItem from="1698049551745" duration="1246000" />
+      <workItem from="1698050848100" duration="9920000" />
+      <workItem from="1698066401775" duration="806000" />
+      <workItem from="1698067221920" duration="941000" />
+      <workItem from="1698068178962" duration="154000" />
+      <workItem from="1698068349988" duration="192000" />
+      <workItem from="1698068553442" duration="1604000" />
+      <workItem from="1698128124600" duration="2643000" />
+      <workItem from="1698130804311" duration="156000" />
+      <workItem from="1698130970442" duration="311000" />
+      <workItem from="1698131292495" duration="473000" />
+      <workItem from="1698131777971" duration="553000" />
+      <workItem from="1698132344678" duration="278000" />
+      <workItem from="1698132633828" duration="101000" />
+      <workItem from="1698132747443" duration="2520000" />
+      <workItem from="1698140455337" duration="105000" />
+      <workItem from="1698209990084" duration="2637000" />
+      <workItem from="1698212661099" duration="214000" />
+      <workItem from="1698212885742" duration="17000" />
+      <workItem from="1698212910922" duration="236000" />
+      <workItem from="1698213159546" duration="217000" />
+      <workItem from="1698213393132" duration="198000" />
+      <workItem from="1698213601126" duration="7302000" />
+      <workItem from="1698228470514" duration="7686000" />
+      <workItem from="1698296776463" duration="7292000" />
+      <workItem from="1698384084040" duration="1460000" />
+      <workItem from="1698386539867" duration="161000" />
+      <workItem from="1698386713937" duration="62000" />
+      <workItem from="1698386784569" duration="2301000" />
+      <workItem from="1698389115626" duration="563000" />
+      <workItem from="1698389694992" duration="274000" />
+      <workItem from="1698389986865" duration="104000" />
+      <workItem from="1698390109401" duration="1634000" />
+      <workItem from="1698391772452" duration="6477000" />
+      <workItem from="1698417287257" duration="188000" />
+      <workItem from="1698417493850" duration="95000" />
+      <workItem from="1698471547822" duration="715000" />
+      <workItem from="1698472288079" duration="551000" />
+      <workItem from="1698472858475" duration="386000" />
+      <workItem from="1698473434789" duration="546000" />
+      <workItem from="1698473997263" duration="2245000" />
+      <workItem from="1698477082097" duration="1118000" />
+      <workItem from="1698478222953" duration="1579000" />
+      <workItem from="1698484163023" duration="2016000" />
+      <workItem from="1698486209025" duration="148000" />
+      <workItem from="1698486370086" duration="4110000" />
+      <workItem from="1698490523329" duration="1370000" />
+      <workItem from="1698491921058" duration="5897000" />
+      <workItem from="1698646082391" duration="8744000" />
+      <workItem from="1698662656356" duration="459000" />
+      <workItem from="1698663128592" duration="1925000" />
+      <workItem from="1698665673889" duration="5123000" />
+      <workItem from="1698734942108" duration="1659000" />
+      <workItem from="1698751220452" duration="2012000" />
+      <workItem from="1698820103352" duration="3311000" />
+      <workItem from="1698826073897" duration="1028000" />
+      <workItem from="1698827123176" duration="562000" />
+      <workItem from="1698827700930" duration="354000" />
+      <workItem from="1698828067857" duration="590000" />
+      <workItem from="1698828672425" duration="1620000" />
+      <workItem from="1698833297315" duration="1969000" />
+      <workItem from="1698835297810" duration="201000" />
+      <workItem from="1698835512821" duration="366000" />
+      <workItem from="1698835896609" duration="3548000" />
+      <workItem from="1698839822591" duration="1253000" />
+      <workItem from="1698907106456" duration="2797000" />
+      <workItem from="1698909940749" duration="692000" />
+      <workItem from="1698910650074" duration="403000" />
+      <workItem from="1698911067112" duration="341000" />
+      <workItem from="1698911419748" duration="273000" />
+      <workItem from="1698911708446" duration="14000" />
+      <workItem from="1698911732423" duration="636000" />
+      <workItem from="1698912388784" duration="1901000" />
+      <workItem from="1698915158027" duration="151000" />
+      <workItem from="1698915321265" duration="518000" />
+      <workItem from="1698915854040" duration="319000" />
+      <workItem from="1698918997873" duration="1744000" />
+      <workItem from="1698921171009" duration="845000" />
+      <workItem from="1698922037243" duration="371000" />
+      <workItem from="1698922424591" duration="610000" />
+      <workItem from="1698923091326" duration="2323000" />
+      <workItem from="1698927957378" duration="1095000" />
+      <workItem from="1698929074947" duration="1093000" />
+      <workItem from="1698992795617" duration="994000" />
+      <workItem from="1698993859342" duration="524000" />
+      <workItem from="1698994401568" duration="1040000" />
+      <workItem from="1698995951793" duration="184000" />
+      <workItem from="1698996150086" duration="252000" />
+      <workItem from="1698996415487" duration="801000" />
+      <workItem from="1698997235736" duration="2702000" />
+      <workItem from="1699001067419" duration="191000" />
+      <workItem from="1699001271619" duration="210000" />
+      <workItem from="1699001495196" duration="1570000" />
+      <workItem from="1699004437069" duration="1965000" />
+      <workItem from="1699006433718" duration="524000" />
+      <workItem from="1699006970508" duration="905000" />
+      <workItem from="1699007893533" duration="325000" />
+      <workItem from="1699008229946" duration="293000" />
+      <workItem from="1699008534280" duration="422000" />
+      <workItem from="1699009075397" duration="3234000" />
+      <workItem from="1699087427454" duration="785000" />
+      <workItem from="1699251186867" duration="4015000" />
+      <workItem from="1699257207913" duration="7887000" />
+      <workItem from="1699337447075" duration="13444000" />
+      <workItem from="1699356406362" duration="5094000" />
+      <workItem from="1699424966584" duration="942000" />
+      <workItem from="1699426086885" duration="16640000" />
+      <workItem from="1699509219180" duration="5772000" />
+      <workItem from="1699515137035" duration="11214000" />
+      <workItem from="1699589968098" duration="2136000" />
+      <workItem from="1699595407177" duration="2365000" />
+      <workItem from="1699686648799" duration="2061000" />
+      <workItem from="1699858049921" duration="13494000" />
+      <workItem from="1700043653178" duration="3819000" />
+      <workItem from="1700048561341" duration="464000" />
+      <workItem from="1700049044832" duration="368000" />
+      <workItem from="1700049786923" duration="197000" />
+      <workItem from="1700049997307" duration="101000" />
+      <workItem from="1700050906232" duration="1449000" />
+      <workItem from="1700113271816" duration="2845000" />
+      <workItem from="1700200858832" duration="7677000" />
+      <workItem from="1700222379772" duration="538000" />
+      <workItem from="1700222937779" duration="38000" />
+      <workItem from="1700222989984" duration="4746000" />
+      <workItem from="1700285197529" duration="4238000" />
+      <workItem from="1700301639132" duration="3109000" />
+      <workItem from="1700459529127" duration="4156000" />
+      <workItem from="1700463785801" duration="17704000" />
+      <workItem from="1700545706034" duration="364000" />
+      <workItem from="1700546087485" duration="18636000" />
+      <workItem from="1700632175190" duration="1690000" />
+      <workItem from="1700633894734" duration="20744000" />
+      <workItem from="1700656053674" duration="1465000" />
+      <workItem from="1700719627731" duration="6158000" />
+      <workItem from="1700725894452" duration="4151000" />
+      <workItem from="1700733471859" duration="197000" />
+      <workItem from="1700733691678" duration="70000" />
+      <workItem from="1700733828520" duration="15000" />
+      <workItem from="1700734524407" duration="1864000" />
+      <workItem from="1700736423443" duration="263000" />
+      <workItem from="1700736699243" duration="2507000" />
+      <workItem from="1700806047466" duration="3065000" />
+      <workItem from="1700810954983" duration="1381000" />
+      <workItem from="1700812834969" duration="4940000" />
+      <workItem from="1700821230221" duration="803000" />
+      <workItem from="1700822051839" duration="7470000" />
+      <workItem from="1700918070381" duration="1648000" />
+      <workItem from="1701063809972" duration="1066000" />
+      <workItem from="1701065449754" duration="74000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testCases/test_Account_Matrices.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ALPHA_CAPITAL$fs.coverage" NAME="fs Coverage Results" MODIFIED="1698140350710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCases" />
+    <SUITE FILE_PATH="coverage/ALPHA_CAPITAL$wqe.coverage" NAME="wqe Coverage Results" MODIFIED="1698226810435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCases" />
+    <SUITE FILE_PATH="coverage/ALPHA_CAPITAL$errorhandler.coverage" NAME="errorhandler Coverage Results" MODIFIED="1698233395152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote" />
+    <SUITE FILE_PATH="coverage/ALPHA_CAPITAL$main.coverage" NAME="main Coverage Results" MODIFIED="1697880796769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ALPHA_CAPITAL$PP.coverage" NAME="PP Coverage Results" MODIFIED="1700052871079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCases" />
+    <SUITE FILE_PATH="coverage/ALPHA_CAPITAL$.coverage" NAME=" Coverage Results" MODIFIED="1698478609653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCases" />
+  </component>
+</project>
