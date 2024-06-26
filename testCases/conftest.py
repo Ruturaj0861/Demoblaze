@@ -15,10 +15,13 @@ def setup(browser):
         driver = webdriver.Edge()
         print("Launching Edge browser .....................")
     else:
-        firefox_options = FirefoxOptions() #Firefox
-        firefox_options.add_argument('--headless')
-        driver = webdriver.Firefox(options=firefox_options)
-        print("Launching firefox browser in headless mode.....................")
+        driver = webdriver.Chrome()
+        print("Launching Chrome browser .....................")
+#    else:
+#        firefox_options = FirefoxOptions()
+#        firefox_options.add_argument('--headless')
+#        driver = webdriver.Firefox(options=firefox_options)
+#        print("Launching firefox browser in headless mode.....................")
     return driver
 
 
@@ -36,10 +39,8 @@ def browser(request):
 def pytest_metadata(metadata):
     # To Add
     metadata["Environment"] = "Test"
-    metadata['Project Name'] = 'Alpha Capital'
-    metadata['Module Name'] = 'User'
+    metadata['Project Name'] = 'Demoblaze'
     metadata['Tester'] = 'Ruturaj Darekar'
-    metadata['Manager'] = 'Anindya Biswas'
     # Remove
     metadata.pop("Packages", None)
     metadata.pop("Plugins", None)

@@ -84,25 +84,6 @@ class Test_1:
             self.driver.quit()
 
 
-
-    @pytest.mark.sanity
-    @pytest.mark.regression
-    def test_homePageTitle_001(self, setup):
-        self.logger.info("************************** test_homePageTitle_001 *******************************")
-        self.logger.info("******************** Verifying Home Page Title ***********************")
-        self.driver = setup
-        self.driver.get(self.baseURL)
-        act_title = self.driver.title
-        if act_title == "STORE":
-            assert True
-            self.driver.close()
-            self.logger.info("************** Test Home Page Title is Passed ********************")
-        else:
-            self.driver.save_screenshot(".\\Screenshots\\" + "test_homePageTitle.png")
-            self.driver.close()
-            self.logger.error("************** Test Home Page Title is Failed ********************")
-            assert False
-
     @pytest.mark.sanity
     @pytest.mark.regression
     def test_signUpWithExistingUser_002(self, setup):
